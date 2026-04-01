@@ -1,0 +1,28 @@
+{
+    margin:0;
+    padding:0;
+    box_sizing
+}
+body{
+    background-color: aqua;
+    color:black;
+    display:flex;
+    justify-content:center;
+}
+#app{
+    background: gray;
+}
+main{
+    padding:30px;
+    height:100%;
+    display:flex
+    flex-direction:column;
+    align-itens:center
+    text-align:center
+}
+nav{
+    border-top:2px solid black
+    display:flex;
+    Align-item:center;
+    padding:10px;
+}
